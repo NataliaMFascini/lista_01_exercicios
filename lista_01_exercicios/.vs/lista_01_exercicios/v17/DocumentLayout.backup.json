@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB08FFB3-68EA-4D93-BC22-1BB7B85B797F}|lista_08\\lista_08.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB08FFB3-68EA-4D93-BC22-1BB7B85B797F}|lista_08\\lista_08.csproj|solutionrelative:lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C67BB9-E3E1-4332-9C52-34E3D71526CB}|lista_07\\lista_07.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C67BB9-E3E1-4332-9C52-34E3D71526CB}|lista_07\\lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34B94-3FCB-4EEA-ABCB-5B6B88EAD97B}|lista_06\\lista_06.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED34B94-3FCB-4EEA-ABCB-5B6B88EAD97B}|lista_06\\lista_06.csproj|solutionrelative:lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9B3FA-E58C-4D27-9A5C-4EABBA1AF6A5}|lista_05\\lista_05.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF9B3FA-E58C-4D27-9A5C-4EABBA1AF6A5}|lista_05\\lista_05.csproj|solutionrelative:lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A53634-FB25-418A-8D99-B3E59137D767}|lista_04\\lista_04.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A53634-FB25-418A-8D99-B3E59137D767}|lista_04\\lista_04.csproj|solutionrelative:lista_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B825E9-9DDD-43C6-AD25-D74846EE3349}|lista_03\\lista_03.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B825E9-9DDD-43C6-AD25-D74846EE3349}|lista_03\\lista_03.csproj|solutionrelative:lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095D177B-0B31-4844-901F-4E7562E46481}|lista_02\\lista_02.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095D177B-0B31-4844-901F-4E7562E46481}|lista_02\\lista_02.csproj|solutionrelative:lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7068217-BF33-44FF-AFEA-19CE3D32911E}|lista_01\\lista_01.csproj|c:\\users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7068217-BF33-44FF-AFEA-19CE3D32911E}|lista_01\\lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\Program.cs",
+              "RelativeDocumentMoniker": "lista_08\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\Program.cs",
+              "RelativeToolTip": "lista_08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:42:35.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\Program.cs",
+              "RelativeDocumentMoniker": "lista_07\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\Program.cs",
+              "RelativeToolTip": "lista_07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:36:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\Program.cs",
+              "RelativeDocumentMoniker": "lista_06\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\Program.cs",
+              "RelativeToolTip": "lista_06\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:30:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\Program.cs",
+              "RelativeDocumentMoniker": "lista_05\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\Program.cs",
+              "RelativeToolTip": "lista_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:27:15.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_04\\Program.cs",
+              "RelativeDocumentMoniker": "lista_04\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_04\\Program.cs",
+              "RelativeToolTip": "lista_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:24:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\Program.cs",
+              "RelativeDocumentMoniker": "lista_03\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_03\\Program.cs",
+              "RelativeToolTip": "lista_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:23:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\Program.cs",
+              "RelativeToolTip": "lista_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:21:50.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\Program.cs",
+              "RelativeDocumentMoniker": "lista_01\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\Program.cs",
+              "RelativeToolTip": "lista_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:11:51.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
